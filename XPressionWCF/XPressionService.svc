@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="XPressionWCF.XPressionService" CodeBehind="XPressionService.svc.cs" %>
